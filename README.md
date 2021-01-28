@@ -1,6 +1,6 @@
 
 
-## Hi, I am Ali Babayev :fire:
+## Hi, I am Ali Babayev :hugs:
 
 ### Who am i?
 ![Who am i?](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif)
