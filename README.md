@@ -18,10 +18,10 @@
 	<a href="https://www.instagram.com/alibabayev0/">
 	<img  src="https://github.com/alibabayev0/alibabayev0/blob/main/social_networks/instagram.png?raw=true" width="48" hspace="10"/>
 	</a>
-	<a href="facebook.com/alibabayev0">
+	<a href="https://facebook.com/alibabayev0">
 		<img  src="https://github.com/alibabayev0/alibabayev0/blob/main/social_networks/facebook.png?raw=true" width="48" hspace="10"/>
 	</a>
-	<a href="www.linkedin.com/in/alibabayev0">
+	<a href="https://linkedin.com/in/alibabayev0">
 		<img  src="https://github.com/alibabayev0/alibabayev0/blob/main/social_networks/linkedin.png?raw=true" width="48" hspace="10"/>
 	</a>
 	<a href="https://www.google.com/search?sxsrf=ALeKk01Hp5lb8bqsm5NERWgkZAxLJfhK_Q%3A1611824694704&source=hp&ei=Nn4SYPSzKIWsa_Drh6AK&q=next+time+i+will+give+you+%29%29&oq=next+time+i+will+give+you+%29%29&gs_lcp=CgZwc3ktYWIQAzoECCMQJzoECAAQQzoICC4QxwEQowI6AggAOgoILhDHARCjAhBDOgIILjoHCAAQFBCHAjoFCAAQywE6BwgjEOoCECc6BAguEEM6DQguEMcBEKMCEEMQkwI6CgguEMcBEK8BEEM6CAguEMcBEK8BOgUILhCTAjoICCEQFhAdEB46BggAEA0QHjoFCCEQoAE6BwghEAoQoAFQ7gJYkTFgnjdoAnAAeAGAAcYCiAGJLZIBCDAuMzIuMi4xmAEAoAEBqgEHZ3dzLXdperABCg&sclient=psy-ab&ved=0ahUKEwj0pvbyor7uAhUF1hoKHfD1AaQQ4dUDCAc&uact=5">
