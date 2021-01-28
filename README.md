@@ -4,13 +4,9 @@
 
 ## <center>Hi, I am Ali Babayev :hugs:</center>
 
-  
-
 ### :mag_right:Who am i?
 
-<center>
-<img  src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif">
-</center>
+<center><img  src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif"></center>
 
 ### :rocket: About:
 >I am Ali and from Azerbaijan(Baku). I am 19. Middle programmer specializing in Android and Backend developer and Project manager of ‘GAAN’ LLC. Experienced with all stages of the development cycle for dynamic projects. Well-versed in numerous programming languages C++, C# (.NET & ASP.NET), Java (Android SDK), Frontend (HTML, CSS, JS (jQuery, Ajax, Vue.js, & etc)), Backend (Node.js), T-SQL (MySQL & MSSQL), NoSQL (MongoDB)
