@@ -37,6 +37,8 @@
 - IntelliJ Idea,
 - PyCharm,
 - DataGrip
+- MySQL Workbench
+- SSMS
 ```
 Happy Codding! :smile:
 > Note: Actually, i do not have **time** to edit my github, but i will
