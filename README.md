@@ -39,6 +39,7 @@
 - DataGrip
 - MySQL Workbench
 - SSMS
+- SpotLight
 ```
 Happy Codding! :smile:
 > Note: Actually, i do not have **time** to edit my github, but i will
