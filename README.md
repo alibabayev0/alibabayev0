@@ -6,7 +6,7 @@
 </center>
 
 ### :rocket: About:
->My name is Ali.I'm from Azerbaijan and 20 years old. Well-versed in numerous programming languages C & C++, Python, C# (.NET & ASP.NET), Android SDK(Java & Kotlin), Frontend (HTML, CSS, JS (jQuery, Ajax, Vue.js, & etc)), Backend (Node.js), T-SQL (MySQL & MSSQL), NoSQL (MongoDB)
+>My name is Ali. I'm from Azerbaijan and 20 years old. Well-versed in numerous programming languages C & C++, Python, C# (.NET & ASP.NET), Android SDK(Java & Kotlin), Frontend (HTML, CSS, JS (jQuery, Ajax, Vue.js, & etc)), Backend (Node.js), T-SQL (MySQL & MSSQL), NoSQL (MongoDB)
 ### :milky_way:Find me:
 <p float="left">
 	<a href="https://www.instagram.com/alibabayev0/">
