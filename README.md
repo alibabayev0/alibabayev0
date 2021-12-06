@@ -32,7 +32,7 @@
 ### :hammer: Tools:
 ```
 - Visual Studio Code,
-- Visual Studio 2019/20/21/22,
+- Visual Studio 21/22,
 - Android Studio,
 - IntelliJ Idea,
 - PyCharm,
