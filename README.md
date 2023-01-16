@@ -6,7 +6,7 @@
 </center>
 
 ### :rocket: About:
->My name is Ali. I'm from Azerbaijan and 21 years old. Well-versed in numerous programming languages C & C++, Python, C# (.NET & ASP.NET), Android SDK (Java & Kotlin), Frontend (HTML, CSS, JS (jQuery, Ajax, Vue.js, React.js & etc), PHP), Backend (Node.js), T-SQL (MySQL & MSSQL), NoSQL (MongoDB)
+>My name is Ali and I am a 21-year-old software developer from Azerbaijan. I possess a broad range of technical skills, including expertise in programming languages such as C, C++, Python, C#, Java, and Kotlin. I am well-versed in front-end development utilizing technologies like HTML, CSS, and JavaScript, with proficiency in frameworks like jQuery, Ajax, Vue.js and React.js. Additionally, I am experienced in back-end development using Node.js and PHP. Furthermore, I have knowledge of SQL-based databases like MySQL and MSSQL, and NoSQL databases like MongoDB.
 ### :milky_way:Find me:
 <p float="left">
 	<a href="https://www.instagram.com/alibabayev0/">
